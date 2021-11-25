@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Satz-17
+- 👀 I’m interested in Embedded Systems...
+- 🌱 I’m currently learning Objective C ...
+- 📫 How to reach me satz.git@gmail.com ...
+
+<!---
+Satz-17/Satz-17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
